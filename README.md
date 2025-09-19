@@ -11,6 +11,9 @@ This repository acts as an entry point into Liwanag. Here, you will find links t
   
 - [**Practice Service (Java Spring)**](https://github.com/Jared-Velasquez/liwanag-practice-service)
   Serves practice questions, evaluates answers, and integrates with content services to facilitate the learners' progress.
+
+- [**Progress Service (Java Spring)**](https://github.com/Jared-Velasquez/liwanag-progress-service)
+  Tracks user progress on Liwanag units, episodes, and activities.
   
 - [**Canonical Content**](https://github.com/Jared-Velasquez/liwanag-canonical-content)
   Stores and manages the static Liwanag learning content, acting as the authoritative source of questions, activities, episodes, and units.
